@@ -115,7 +115,7 @@ UserName_Dev = sudos.UserName_tektok
 bot_id = token:match("(%d+)")  
 Id_Dev = sudos.Id_Devtektok
 Ids_Dev = {sudos.Id_Devtektok,373906612,bot_id}
-Name_Bot = redis:get(bot_id.."Redis:Name:Bot") or "تيكتوك"
+Name_Bot = redis:get(bot_id.."Redis:Name:Bot") or "فخامه"
 ------------------------------------------------------------------------------------------------------------
 function var(value)  
 print(serpent.block(value, {comment=false}))   
