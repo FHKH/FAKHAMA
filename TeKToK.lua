@@ -6421,14 +6421,14 @@ send(msg.chat_id_, msg.id_,[[
 
 𓂅 .FKHAMA TEAM 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-𓂅 . [Source Channel](t.me/FKHAMM)
+𓂅 . [Source Channel] (t.me/FKHAMM)
 
-𓂅 . [Source Info ](t.me/FFKHM)     
+𓂅 . [Source Info ] (t.me/FFKHM)     
 
-𓂅 . [ALFKHAMA](t.me/FKHMS)     
+𓂅 . [ALFKHAMA] (t.me/FKHMS)     
  
  ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-𓂅 . [TWS ](t.me/FHKHM)     
+𓂅 . [TWS ] (t.me/FHKHM)     
 ]]) 
 elseif text == 'الاوامر' and Admin(msg) then
 send(msg.chat_id_, msg.id_,[[*
